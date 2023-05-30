@@ -135,7 +135,8 @@
 
 
 
-
+![](https://github-readme-stats.vercel.app/api?username=abdul-533&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=abdul-533&hide_border=false)<br/>
 
 <div>
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{abdul-533}/count.svg" /></p> 
