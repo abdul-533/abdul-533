@@ -132,12 +132,7 @@
   </tr>
 </table>
 
-
-
-
-
-![](https://github-readme-stats.vercel.app/api?username=abdul-533&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=abdul-533&hide_border=false)
+[![GitHub Streak](https://streak-stats.demolab.com?user=abdul-533&theme=ocean-gradient&hide_border=true&border_radius=8)](https://git.io/streak-stats)
 
 <div>
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{abdul-533}/count.svg" /></p> 
