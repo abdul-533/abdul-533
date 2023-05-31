@@ -134,7 +134,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=abdul-533&theme=ocean-gradient&hide_border=true&border_radius=8)](https://git.io/streak-stats)
 
-
+ <a href="https://github.com/abdul-533/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=abdul-533&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="abdul-533's github stats" />
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
