@@ -1,4 +1,12 @@
-### Hi there 👋
+   
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>   
+ 
+  
+  ### Hi there 👋
+</div>
+ 
+    
 
 <h3 align="center">A hardworking full stack tester from Azerbaijan</h3>
 
@@ -131,6 +139,12 @@
       <br>Maven
   </tr>
 </table>
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=abdul-533&theme=ocean-gradient&hide_border=true&border_radius=8)](https://git.io/streak-stats)
 
