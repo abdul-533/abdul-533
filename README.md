@@ -136,6 +136,12 @@
 
 ![Snake animation](https://github.com/{{abdul-533}}/{{abdul-533}}/blob/output/github-contribution-grid-snake.svg)
 
+<img src="https://imgur.com/mlbGPyp.gif">
+<div align="center">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
+</div>
+<img src="https://imgur.com/mlbGPyp.gif">
+
 <div>
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{abdul-533}/count.svg" /></p> 
 </div>
