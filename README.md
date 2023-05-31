@@ -134,6 +134,8 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=abdul-533&theme=ocean-gradient&hide_border=true&border_radius=8)](https://git.io/streak-stats)
 
+![Snake animation](https://github.com/{{abdul-533}}/{{abdul-533}}/blob/output/github-contribution-grid-snake.svg)
+
 <div>
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{abdul-533}/count.svg" /></p> 
 </div>
