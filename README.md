@@ -166,6 +166,10 @@
    <h2 style="color: #44AEFB">📊 Statistics</h2>
 
 ![stats_banner](https://user-images.githubusercontent.com/78341798/194534778-d662496c-ae00-4e8d-ae9b-b90912054e7f.gif)
+   
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=abdul-533&theme=radical&no-frame=false&no-bg=true&margin-w=4)   
+   
 <div>
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{abdul-533}/count.svg" /></p> 
 </div>
