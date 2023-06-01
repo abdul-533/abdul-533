@@ -3,15 +3,23 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>   
  
   
-  ### Hi there 👋
+  ### Hi there 👋   [Email Me](mailto:elizadeh9797@gmail.com)
 </div>
  
-    
+ <h3 align="center">A hardworking full stack tester from Azerbaijan</h3> 
 
-<h3 align="center">A hardworking full stack tester from Azerbaijan</h3>
+
+
+
+
+
+ 
+
+
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
+<br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/><br/><br/><h2 style="color: #44AEFB">⚙️ Languages and Tools</h2>
 <table align="center">
   <tr>
     <td align="center" width="96">
@@ -143,6 +151,7 @@
 
 
 
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
@@ -154,6 +163,9 @@
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
 </div>
 
+   <h2 style="color: #44AEFB">📊 Statistics</h2>
+
+![stats_banner](https://user-images.githubusercontent.com/78341798/194534778-d662496c-ae00-4e8d-ae9b-b90912054e7f.gif)
 <div>
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{abdul-533}/count.svg" /></p> 
 </div>
