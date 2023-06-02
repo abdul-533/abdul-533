@@ -4,12 +4,13 @@
  
   
   ### Hi there 👋   [Email Me](mailto:elizadeh9797@gmail.com)
-</div>
- 
- <h3 align="center">A hardworking full stack tester from Azerbaijan</h3> 
-
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
+   
+            
+  <h1 align="left">About Me 💻<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+</div >
+            - 👨‍💻 I am a hardworking Software Development Engineer in Test from Azerbaijan.<br/>
+				- 💼 I’m currently working on Techno Study Company as  QA and teach support.<br/>
+				- 🌱 I’m presenrly learning extra testing tools which i dont't know and  further developing my coding skills . <br/></h1>
 <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/><br/><br/><h2 style="color: #44AEFB">⚙️ Languages and Tools</h2>
 <table align="center">
   <tr>
@@ -149,13 +150,16 @@
 
 ![stats_banner](https://user-images.githubusercontent.com/78341798/194534778-d662496c-ae00-4e8d-ae9b-b90912054e7f.gif)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=abdul-533&theme=ocean-gradient&hide_border=true&border_radius=8)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=abdul-533&theme=ocean-gradient&hide_border=true&border_radius=8)](https://git.io/streak-stats) 
 
- <a href="https://github.com/abdul-533/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=abdul-533&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="abdul-533's github stats" />
+ <a href="https://github.com/abdul-533/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=abdul-533&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="abdul-533's github stats" /> 
    
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=abdul-533&theme=radical&no-frame=false&no-bg=true&margin-w=4)   
-   
+
+ ## ⚡ The number of people who viewed my profile
 <div>
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{abdul-533}/count.svg" /></p> 
+<p align="right"><img align="center" src="https://profile-counter.glitch.me/{abdul-533}/count.svg" /> </p> 
 </div>
+      
+
