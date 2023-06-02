@@ -10,7 +10,7 @@
 </div >
             - 👨‍💻 I am a hardworking Software Development Engineer in Test from Azerbaijan.<br/>
 				- 💼 I’m currently working on Techno Study Company as  QA and teach support.<br/>
-				- 🌱 I’m presenrly learning extra testing tools which i dont't know and  further developing my coding skills . <br/></h1>
+				- 🌱 I’m presently learning extra testing tools which i don't know and  further developing my coding skills . <br/></h1>
 <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/><br/><br/><h2 style="color: #44AEFB">⚙️ Languages and Tools</h2>
 <table align="center">
   <tr>
