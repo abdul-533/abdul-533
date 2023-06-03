@@ -150,9 +150,12 @@
 
 ![stats_banner](https://user-images.githubusercontent.com/78341798/194534778-d662496c-ae00-4e8d-ae9b-b90912054e7f.gif)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=abdul-533&theme=ocean-gradient&hide_border=true&border_radius=8)](https://git.io/streak-stats) 
+|       [![GitHub Streak](https://streak-stats.demolab.com?user=abdul-533&theme=ocean-gradient&hide_border=true&border_radius=8)](https://git.io/streak-stats)       |                                                                                                                                                                                                                                                          |
+|-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
+| ![abdul-533's github stats](https://github-readme-stats.vercel.app/api?username=abdul-533&show_icons=true&theme=radical&include_all_commits=true) | ![abdul-533's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=abdul-533&theme=radical&layout=compact) |
 
- <a href="https://github.com/abdul-533/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=abdul-533&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="abdul-533's github stats" /> 
+
+
    
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=abdul-533&theme=radical&no-frame=false&no-bg=true&margin-w=4)   
