@@ -9,7 +9,7 @@
   <h1 align="left">About Me 💻<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 </div >
             - 👨‍💻 I am a hardworking Software Development Engineer in Test from Azerbaijan.<br/>
-				- 💼 I’m currently working on Techno Study Company as  QA and teach support.<br/>
+				- 💼 I’m currently working on Techno Study Company as  QA and as a mentor.<br/>
 				- 🌱 I’m presently learning extra testing tools which i don't know and  further developing my coding skills . <br/></h1>
 <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/><br/><br/><h2 style="color: #44AEFB">⚙️ Languages and Tools</h2>
 <table align="center">
