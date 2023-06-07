@@ -3,8 +3,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>   
  
   
-  ### Hi there 👋   [Email Me](mailto:elizadeh9797@gmail.com)
-   
+  ### Hi there 👋   [Email Me 📧](mailto:elizadeh9797@gmail.com) 
             
   <h1 align="left">About Me 💻<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 </div >
