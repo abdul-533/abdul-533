@@ -2,9 +2,8 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>   
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=31CBF7&width=435&lines=Hi+there+👋+I'm+Abdul+Alizada.+I+have+2+years%2B+experience+as+a+Software+Development+Engineer+In+Test.++I+love+coding+and+testing+different+sites...)](https://git.io/typing-svg)
-	
-	
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Abdul+Alizada;+Welcome+to+My+Profile!;I+have+2+years%2B+experience+as+a+SDET...)](https://git.io/typing-svg)
+
  [Email Me 📧](mailto:elizadeh9797@gmail.com) 
             
   <h1 align="left">About Me 💻<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
