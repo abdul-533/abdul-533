@@ -4,11 +4,7 @@
  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Abdul+Alizada;+Welcome+to+My+Profile!;I+have+2+years%2B+experience+as+a+SDET...)](https://git.io/typing-svg)
 
- [Email Me 📧](mailto:elizadeh9797@gmail.com)    <div align="center">
-	<br>
-	<img src="https://github.githubassets.com/images/mona-loading-default.gif" width="50" height="50" />
-	<br>
-</div>
+ [Email Me 📧](mailto:elizadeh9797@gmail.com)    
             
   <h1 align="left">About Me 💻<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> 
 </div >
