@@ -157,8 +157,6 @@
 
    <h2 style="color: #44AEFB">📊 Statistics</h2>
 
-![stats_banner](https://user-images.githubusercontent.com/78341798/194534778-d662496c-ae00-4e8d-ae9b-b90912054e7f.gif)
-
 |       [![GitHub Streak](https://streak-stats.demolab.com?user=abdul-533&theme=ocean-gradient&hide_border=true&border_radius=8)](https://git.io/streak-stats)       |                                                                                                                                                                                                                                                          |
 |-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
 | ![abdul-533's github stats](https://github-readme-stats.vercel.app/api?username=abdul-533&show_icons=true&theme=radical&include_all_commits=true) | ![abdul-533's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=abdul-533&theme=radical&layout=compact) |
@@ -176,6 +174,6 @@
 </div>
 The number of visitors to this page in this section started on June 20 , 2023 :heart:<br/>
 <br>
-<a href="https://s01.flagcounter.com/pVyV"><img src="https://s01.flagcounter.com/map/pVyV/size_m/txt_000000/border_CCCCCC/pageviews_0/viewers_0/flags_0/" alt="Flag Counter" border="0"></a>
+
 
 <a href="https://s01.flagcounter.com/ZeHB"><img src="https://s01.flagcounter.com/count2/ZeHB/bg_FFFFFF/txt_000000/border_CCCCCC/columns_4/maxflags_250/viewers_0/labels_1/pageviews_0/flags_0/percent_70/" alt="Flag Counter" border="0"></a>
